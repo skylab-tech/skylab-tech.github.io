@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Skylab Research
-email: alireza@skylabtech.ai
+email: ml@skylabtech.ai
 description: >- # this means to ignore newlines until "baseurl:"
   Skylab technologies inc. research home page contains research
   papers and published research artifcats.
@@ -22,6 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SkylabTechAI
 github_username:  skylab-tech
+linkedin_username: skylabtech
 
 # Build settings
 markdown: kramdown

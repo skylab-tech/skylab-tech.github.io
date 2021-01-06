@@ -15,7 +15,13 @@ title: Home
 ## Publications
 
 ### WACV 2021 -- AutoRetouch: Automatic Professional Face Retouching
-
+![p1](assets/thumbs/papers/WACV21-0.jpg)
+![p1](assets/thumbs/papers/WACV21-1.jpg)
+![p1](assets/thumbs/papers/WACV21-2.jpg)
+![p1](assets/thumbs/papers/WACV21-4.jpg)
+![p1](assets/thumbs/papers/WACV21-5.jpg)
+![p1](assets/thumbs/papers/WACV21-6.jpg)
+![p1](assets/thumbs/papers/WACV21-7.jpg)
 **AutoRetouch: Automatic Professional Face Retouching**<br/>
 Alireza Shafaei ([skylabtech](https://www.skylabtech.ai)), James J. Little (UBC), Mark Schmidt (UBC)<br/>
 Winter Conference on Applications of Computer Vision (WACV), 2021<br/>

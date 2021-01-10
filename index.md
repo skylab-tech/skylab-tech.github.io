@@ -6,11 +6,17 @@ layout: home
 title: Home
 ---
 
+- [Job Opportunities at Skylab Machine Lerning Team](#job-opportunities-at-skylab-machine-lerning-team)
 - [Publications](#publications)
   - [WACV 2021 -- AutoRetouch: Automatic Professional Face Retouching](#wacv-2021----autoretouch-automatic-professional-face-retouching)
 - [Datasets](#datasets)
   - [Flickr-Faces-HQ-Retouching (FFHQR) Dataset](#flickr-faces-hq-retouching-ffhqr-dataset)
-- [Job Opportunities at Skylab Machine Lerning Team](#job-opportunities-at-skylab-machine-lerning-team)
+
+## Job Opportunities at Skylab Machine Lerning Team
+
+Do you wish to join the machine learning team at Skylab to perform cutting-edge computational photography research?
+We have _full-time_, _part-time_, and _internship_ positions available in Vancouver, Canada.
+Just send your CV and preference (full-time/part-time/internship) to [ml@skylabtech.ai](mailto:ml@skylabtech.ai).
 
 ## Publications
 
@@ -46,8 +52,3 @@ Flickr-Faces-HQ-Retouching (FFHQR) is a high-quality image dataset of retouched 
 
 The retouching dataset is made available under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} license by [Skylab Technologies Incorporated](https://skylabtech.ai){:target="_blank"}. You can **use, redistribute, and adapt it for non-commercial purposes**, as long as you (a) give appropriate credit by **citing our paper**, (b) **indicate any changes** that you've made, and (c) distribute any derivative works **under the same license**.
 
-## Job Opportunities at Skylab Machine Lerning Team
-
-Do you wish to join the machine learning team at Skylab to perform cutting-edge computational photography research?
-We have _full-time_, _part-time_, and _internship_ positions available in Vancouver, Canada.
-Just send your CV and preference (full-time/part-time/internship) to [ml@skylabtech.ai](mailto:ml@skylabtech.ai).

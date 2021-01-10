@@ -36,7 +36,7 @@ Winter Conference on Applications of Computer Vision (WACV), 2021<br/>
 [WACV 21 Page](https://openaccess.thecvf.com/content/WACV2021/html/Shafaei_AutoRetouch_Automatic_Professional_Face_Retouching_WACV_2021_paper.html){:target="_blank"}
 • [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Shafaei_AutoRetouch_Automatic_Professional_Face_Retouching_WACV_2021_paper.pdf){:target="_blank"}
 • [Supp](https://openaccess.thecvf.com/content/WACV2021/supplemental/Shafaei_AutoRetouch_Automatic_Professional_WACV_2021_supplemental.pdf){:target="_blank"}
-• [Video](https://youtu.be/NBFkSL5XhHA)
+• [Video](https://youtu.be/NBFkSL5XhHA){:target="_blank"}
  
 ## Datasets
 

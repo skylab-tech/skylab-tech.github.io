@@ -23,6 +23,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SkylabTechAI
 github_username:  skylab-tech
 linkedin_username: skylabtech
+youtube_username: SkylabTech
 
 # Build settings
 markdown: kramdown

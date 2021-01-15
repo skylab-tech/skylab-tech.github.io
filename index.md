@@ -6,13 +6,13 @@ layout: home
 title: Home
 ---
 
-- [Job Opportunities at Skylab Machine Lerning Team](#job-opportunities-at-skylab-machine-lerning-team)
+- [Job Opportunities at Skylab Machine Learning Team](#job-opportunities-at-skylab-machine-learning-team)
 - [Publications](#publications)
   - [WACV 2021 -- AutoRetouch: Automatic Professional Face Retouching](#wacv-2021----autoretouch-automatic-professional-face-retouching)
 - [Datasets](#datasets)
   - [Flickr-Faces-HQ-Retouching (FFHQR) Dataset](#flickr-faces-hq-retouching-ffhqr-dataset)
 
-## Job Opportunities at Skylab Machine Lerning Team
+## Job Opportunities at Skylab Machine Learning Team
 
 Do you wish to join the machine learning team at Skylab to perform cutting-edge computational photography research?
 We have _full-time_, _part-time_, and _internship_ positions available in Vancouver, Canada.

@@ -17,7 +17,7 @@ title: Skylab Research
 email: ml@skylabtech.ai
 description: >- # this means to ignore newlines until "baseurl:"
   Skylab technologies inc. research home page contains research
-  papers and published research artifcats.
+  papers and published research artifacts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SkylabTechAI

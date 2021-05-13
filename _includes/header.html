@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="assets/Skylab.png" style="float: left; margin: 3px;"/> {{ site.title | escape }}
+      <img src="assets/skylab2.webp" style="float: left; margin: 3px; max-width: 231px;"/> Research
     </a>
 
     {%- if page_paths -%}
@@ -25,6 +25,7 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          <a class="page-link" href="https://www.skylabtech.ai">Skylab</a>
         </div>
       </nav>
     {%- endif -%}

@@ -6,13 +6,18 @@ layout: home
 title: Home
 ---
 
-- [Job Opportunities at Skylab Machine Learning Team](#job-opportunities-at-skylab-machine-learning-team)
+- [People](#people)
 - [Publications](#publications)
   - [WACV 2021 -- AutoRetouch: Automatic Professional Face Retouching](#wacv-2021----autoretouch-automatic-professional-face-retouching)
 - [Datasets](#datasets)
   - [Flickr-Faces-HQ-Retouching (FFHQR) Dataset](#flickr-faces-hq-retouching-ffhqr-dataset)
 
-## Job Opportunities at Skylab Machine Learning Team
+## People
+
+- [Alireza Shafaei](https://www.shafaei.ai){:target="_blank"}
+- Mohammad Nourbakhsh
+- Alinstein Jose
+- Hardik Uppal
 
 Do you wish to join the machine learning team at Skylab to perform cutting-edge computational photography research?
 We have _full-time_, _part-time_, and _internship_ positions available in Vancouver, Canada.
